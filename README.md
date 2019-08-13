@@ -99,7 +99,7 @@ Build
 ### Dependencies
 The plugin has a dependency on [servicestage-client.jar](servicestage-client.jar). A copy of the file has already been included in the `./lib` directory.
 
-If you make changes to the `servicestage-java-client` client, it must be built again. Put the [servicestage-java-client](servicestage-java-client) project in the same parent directory as this plugin project. For example:
+If you make changes to the `servicestage-java-client` client, it must be built again. Put the [servicestage-java-client](https://github.com/CPE-OAuth/servicestage-java-client) project in the same parent directory as this plugin project. For example:
 
 ```
 workspace
